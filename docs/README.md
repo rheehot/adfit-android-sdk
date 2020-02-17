@@ -16,3 +16,7 @@ BannerAdView의 `pause/resume/destroy` API를 호출하지 않을 경우,
 이 문서는 Kakao 신디케이션 제휴 당사자에 한해 제공되는 자료로 가이드 라인을 포함한 모든 자료의 지적재산권은 주식회사 카카오가 보유합니다.
 
 Copyright © Kakao Corp. All rights reserved.
+
+#################
+
+https://webnautes.tistory.com/454
